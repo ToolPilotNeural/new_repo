@@ -1,1 +1,1 @@
-# new_repo
+# Repo to test Python applications
